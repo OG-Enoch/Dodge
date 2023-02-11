@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d35be7bd6e100bf44acc196803606d15
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hussar Nova
+  fontNames:
+  - Hussar Nova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a03b121741d0d784f90dc1ce43400114, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
